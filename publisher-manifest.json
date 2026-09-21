@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5869c1dc3e9f81aba023ee65",
+  "owner": "uuasxs",
+  "repo": "page-d2fc95ff872b932a1f4d6cc6",
+  "title": "白嫖(Mcat)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d2fc95ff872b932a1f4d6cc6",
+      "a": "白嫖(Mcat)",
+      "b": "2027最新官网",
+      "entity": "白嫖(Mcat)",
+      "brand": "白嫖(Mcat)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "867916789d11d5109079a58c8b5db03b3c69c5aabb8152b78ff7d3768dfca697",
+      "content": {
+        "primary_entity": "白嫖(Mcat)",
+        "keyword1": "白嫖(Mcat)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，桌面端与移动端各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选版本，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对版本，轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付年付均可选择。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备并配备IPLC专线；团队版每月1000GB流量、支持20台设备与专属节点。覆盖常见桌面与移动客户端，按设备与用量对比后即可配置订阅。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度对比，找到适合自己的版本。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按每月使用量选择合适档位。",
+          "AI_FEATURE_TITLE_1": "套餐流量划分",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，按同时在线设备数决定版本。",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付享有优惠价格，长期使用可选年付方案。",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按三个步骤操作。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "白嫖(Mcat)提供多档海外加速套餐，涵盖基础、旗舰与团队版本，满足个人设备到多终端团队的不同用量。按流量、设备数与订阅周期对比后，选择合适版本并配置订阅。",
+          "AI_HERO_SUBTITLE": "多档套餐，轻松加速",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "月付年付灵活订阅",
+          "AI_HIGHLIGHT_3": "多设备同时在线支持",
+          "AI_PLANS_INTRO": "基础版适合轻度个人使用，旗舰版适合多设备流媒体与游戏需求，团队版面向多终端协作场景；年付价格更优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TITLE_1": "选择服务与套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端支持情况，查看对应版本是否满足设备数量与网络需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅信息，按步骤完成配置后即可连接使用。",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "白嫖(Mcat)套餐指引",
+          "AI_FAQ_ANSWER_1": "基础版¥15/月，年付¥150；旗舰版¥35/月，年付¥350；团队版¥85/月，年付¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台、旗舰版支持5台、团队版支持20台设备同时在线，按需选择即可。",
+          "AI_FAQ_ANSWER_3": "基础版每月100GB，旗舰版300GB，团队版1000GB，可根据日常用量估算。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含IPLC专线游戏加速优化，普通线路节点池则在基础版中提供。",
+          "AI_FAQ_ANSWER_5": "选择适配设备系统的客户端，按客户端文档导入订阅地址即可完成配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别多少钱？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "每月流量额度分别是多少？",
+          "AI_FAQ_QUESTION_4": "IPLC专线在哪个套餐里？",
+          "AI_FAQ_QUESTION_5": "如何配置订阅到客户端？",
+          "AI_FAQ_TITLE": "套餐与使用疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ckoonsf.cn",
+    "host": "ckoonsf.cn"
+  },
+  "file_hashes": {
+    "index.html": "a6b303102b7941bfc17bbf7dab32ef5924936f7b8f181de59d7c5aaefca19c86",
+    "sitemap.xml": "5c842fdcb1454748fda529b39e044d048efa1c1a1c792aaadd409c07d0269d3b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "02c5411136b7c0087f9283e3dd1649f4faaeb66349adbdf4f3d1178e2469088a",
+    "robots.txt": "bed4151bd47381a372332aa0787f10d3bfebdb1160625a87df98eeccf19aec9e",
+    "77e428c51af7a4c9ce97114e42834c75.txt": "ff8220b7d9f52a752868b7ec4a70269ce22ee4dea9604609784a8d7c978867d1"
+  },
+  "revision": "d109d1ac5d4a79f968920eb938c90966c0b585be1cec23cabbc0d05e0f216589"
+}
